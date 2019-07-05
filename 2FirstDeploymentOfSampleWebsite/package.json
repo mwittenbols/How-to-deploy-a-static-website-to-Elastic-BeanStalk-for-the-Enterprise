@@ -1,0 +1,16 @@
+{
+  "name": "myapplication",
+  "version": "1.0.0",
+  "description": "Static Web Server for <myapplication>",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
