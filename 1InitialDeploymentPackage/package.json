@@ -4,7 +4,7 @@
   "description": "Static Web Server for <myapplication>",
   "main": "index.html",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "devDependencies": {
   },
